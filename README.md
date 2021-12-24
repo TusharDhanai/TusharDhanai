@@ -2,7 +2,7 @@
 - 👀 I’m interested in a lot of things. I work as a Web development intern, and particulary love working with javascript, that seems the most challenging work. Working on
   back-end is also great, but usually I just have to repeat things. I would love to do game development, not as a career, but as a hobby. Other than that, just knowing as much as I
   can about everything makes me happy.
-- 🌱 I’m currently learning c++, data structures, algorithms, nodejs, and some other skills, like presenting and communicatig. I like to work on multiple things, so I don't get bored.
+- 🌱 I’m currently learning c++, data structures, algorithms, nodejs, and some other soft skills, like presenting and communicating. I like to work on multiple things, so I don't get bored.
 - 📫 If you want to reach me here's my email -- dhanai.tushar007@gmail.com.
 
 <!---
